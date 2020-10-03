@@ -1,0 +1,8 @@
+print("Fibonacci Series")
+temp = [0,1]
+for i in temp:
+if(temp[i] <= 1):
+print("Enter a Highher Number")
+else:
+print("have to print Fibonacci series")
+
